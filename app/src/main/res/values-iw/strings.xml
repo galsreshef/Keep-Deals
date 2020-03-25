@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Keep Deals</string>
+    <string name="new_card">כרטיס חדש</string>
+    <string name="card_name">שם הכרטיס</string>
+    <string name="card_description">תיאור</string>
+    <string name="expiration_date">תאריך אחרון</string>
+    <string name="take_photo">צילום</string>
+    <string name="where_to_use">היכן ניתן להשתמש</string>
+    <string name="add_card">הוסף כרטיס</string>
+    <string name="back">אחורה</string>
+    <string name="photo">תמונה</string>
+    <string name="are_you_sure">האם להסיר את הכרטיס?</string>
+    <string name="remove">הסרה</string>
+    <string name="cancel">ביטול</string>
+    <string name="missing_permissions">הרשאות חסרות</string>
+    <string name="pay_attention">יש לשים לב</string>
+    <string name="saved_card_without_photo">האם לשמור כרטיס ללא תמונה?</string>
+    <string name="yes">כן</string>
+    <string name="save_your_cards_tickets_coupons">הדרך הקלה לשמור כרטיסי אשראי, מועדון וקופונים</string>
+</resources>
